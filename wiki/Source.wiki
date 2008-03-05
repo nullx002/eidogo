@@ -1,0 +1,9 @@
+#summary Instructions on how to get at the source code
+
+= Browse Source via the Web =
+
+http://repo.or.cz/w/eidogo.git
+
+= Checkout Source with Git =
+
+`git clone git://repo.or.cz/eidogo.git eidogo`
