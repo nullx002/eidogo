@@ -2,8 +2,8 @@
 
 === Browse Source via the Web ===
 
-http://repo.or.cz/w/eidogo.git
+http://github.com/jkk/eidogo/tree/master
 
 === Checkout Source with Git ===
 
-`git clone git://repo.or.cz/eidogo.git eidogo`
+`git clone git://github.com/jkk/eidogo.git eidogo`
